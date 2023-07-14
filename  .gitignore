@@ -1,0 +1,8 @@
+grp*/
+*.fits*
+*.tar
+emcee.ipynb
+CASSIPDP
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
