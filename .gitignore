@@ -1,4 +1,5 @@
 grp*/
+data.zip
 *.fits*
 *.tar
 emcee.ipynb
